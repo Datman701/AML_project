@@ -1,0 +1,5 @@
+.venv
+millionsongsubset/
+output/
+output_test/
+*.log
